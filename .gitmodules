@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "CohensdpLibrary"]
+	path = CohensdpLibrary
+	url = https://github.com/dcousin3/cohensdplibrary
+	shallow = true
+	registered = true
 [submodule "superb"]
 	path = superb
 	url = https://github.com/dcousin3/superb

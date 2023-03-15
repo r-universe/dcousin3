@@ -1,5 +1,9 @@
 [
   {
+    "package": "CohensdpLibrary",
+    "oncran": true
+  },
+  {
     "package": "superb",
     "oncran": true
   }
