@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "ANOFA"]
+	path = ANOFA
+	url = https://github.com/dcousin3/anofa
 [submodule "CohensdpLibrary"]
 	path = CohensdpLibrary
 	url = https://github.com/dcousin3/cohensdplibrary
