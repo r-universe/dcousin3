@@ -5,6 +5,9 @@
 [submodule "ANOFA"]
 	path = ANOFA
 	url = https://github.com/dcousin3/anofa
+[submodule "ANOPA"]
+	path = ANOPA
+	url = https://github.com/dcousin3/anopa
 [submodule "CohensdpLibrary"]
 	path = CohensdpLibrary
 	url = https://github.com/dcousin3/cohensdplibrary
