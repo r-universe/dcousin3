@@ -8,9 +8,6 @@
 [submodule "ANOPA"]
 	path = ANOPA
 	url = https://github.com/dcousin3/anopa
-[submodule "CohensdpLibrary"]
-	path = CohensdpLibrary
-	url = https://github.com/dcousin3/cohensdplibrary
 [submodule "superb"]
 	path = superb
 	url = https://github.com/dcousin3/superb
